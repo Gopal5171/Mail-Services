@@ -1,0 +1,7 @@
+HOST = "https://rpaproduction.emea.bosch.com/"
+AUTHEN = "v1/authentication"
+LOGIN_SETTING = "v2/credentialvault/loginsetting"
+DEPLOY = "v3/automations/deploy"
+PVER_DOCU_QUEUE = "v3/wlm/queues/{0}/workitems"
+QUEUE_LIST = "v3/wlm/queues/{0}/workitems/list"
+WORK_ITEM_UPDATE = "v3/wlm/queues/{0}/workitems/{1}"
